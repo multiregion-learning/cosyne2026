@@ -32,8 +32,55 @@ body {
   line-height: 1.6;
 }
 
+/* Splash page hero styling */
+.page__hero--overlay {
+  padding: 6em 0;
+
+  .page__title {
+    font-size: 4em;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    margin-bottom: 0.25em;
+  }
+
+  .page__lead {
+    font-size: 1.5em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #fff;
+    -webkit-text-stroke: 1px rgba(255,255,255,0.8);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+  }
+}
+
+/* Responsive hero text */
+@media (max-width: 768px) {
+  .page__hero--overlay {
+    .page__title {
+      font-size: 2.5em;
+    }
+    .page__lead {
+      font-size: 1.1em;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .page__hero--overlay {
+    .page__title {
+      font-size: 1.8em;
+    }
+    .page__lead {
+      font-size: 0.95em;
+    }
+  }
+}
+
 /* Splash page intro text */
-.page__lead {
+.page__hero--overlay ~ .page__content .page__lead,
+.feature__wrapper .archive__item-excerpt {
   font-size: 1.1em;
   font-weight: 400;
 }

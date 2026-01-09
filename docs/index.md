@@ -1,12 +1,15 @@
 ---
-title: Join us at COSYNE 2026!
+title: "MULTI-REGIONAL LEARNING"
 layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/calin-stan-1V-hH2oF3ls-unsplash.jpg
+  overlay_filter: 0.3
   caption: Photo by CALIN STAN on Unsplash
+  actions:
+tagline: "COSYNE 2026 in Cascais, Portugal // March 17, 2026"
 intro:
-  - excerpt: 'How do neural circuits adapt to support learning in biological systems? Our workshop brings together experimentalists and theorists to explore how learning-related changes in neural populations are coordinated across brain regions.'
+  - excerpt: 'How do neural circuits adapt to support learning in biological systems?'
 ---
 
 {% include feature_row id="intro" type="center" %}
