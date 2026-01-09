@@ -1,18 +1,9 @@
 main:
-  - title: "Main"
+  - title: "Home"
     url: /
-    description: "Main page"  
   - title: "Speakers"
     url: /speakers/
-    description: "Speaker List"  
   - title: "Schedule"
     url: /schedule/
-    description: "Speaker Schedule"  
-  - title: "Posts"
-    url: /year-archive/
-    description: "Blog Posts"  
   - title: "Q&A"
-    url: https://google.com
-    target: _blank
-    description: "Link to survey form"  
-
+    url: /qa/
