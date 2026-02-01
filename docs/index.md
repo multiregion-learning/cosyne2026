@@ -102,7 +102,7 @@ The topic of this workshop relates two subareas within experimental and computat
   </div>
   <div class="schedule-item break">
     <div class="schedule-time">10:30 AM</div>
-    <div class="schedule-content"><p class="schedule-title">Break</p></div>
+    <div class="schedule-content"><p class="schedule-title">Coffee Break</p></div>
   </div>
   <div class="schedule-item">
     <div class="schedule-time">11:00 AM</div>
@@ -118,7 +118,7 @@ The topic of this workshop relates two subareas within experimental and computat
   </div>
   <div class="schedule-item break">
     <div class="schedule-time">12:30 PM</div>
-    <div class="schedule-content"><p class="schedule-title">Lunch</p></div>
+    <div class="schedule-content"><p class="schedule-title">Lunch Break</p></div>
   </div>
   <div class="schedule-item">
     <div class="schedule-time">3:00 PM</div>
@@ -134,7 +134,7 @@ The topic of this workshop relates two subareas within experimental and computat
   </div>
   <div class="schedule-item break">
     <div class="schedule-time">4:15 PM</div>
-    <div class="schedule-content"><p class="schedule-title">Coffee</p></div>
+    <div class="schedule-content"><p class="schedule-title">Coffee Break</p></div>
   </div>
   <div class="schedule-item">
     <div class="schedule-time">4:45 PM</div>

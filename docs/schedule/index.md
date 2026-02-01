@@ -32,7 +32,7 @@ permalink: /schedule/
   <div class="schedule-item break">
     <div class="schedule-time">10:30 AM</div>
     <div class="schedule-content">
-      <p class="schedule-title">Break</p>
+      <p class="schedule-title">Coffee Break</p>
     </div>
   </div>
 
@@ -60,7 +60,7 @@ permalink: /schedule/
   <div class="schedule-item break">
     <div class="schedule-time">12:30 PM</div>
     <div class="schedule-content">
-      <p class="schedule-title">Lunch</p>
+      <p class="schedule-title">Lunch Break</p>
     </div>
   </div>
 
@@ -88,7 +88,7 @@ permalink: /schedule/
   <div class="schedule-item break">
     <div class="schedule-time">4:15 PM</div>
     <div class="schedule-content">
-      <p class="schedule-title">Coffee</p>
+      <p class="schedule-title">Coffee Break</p>
     </div>
   </div>
 
