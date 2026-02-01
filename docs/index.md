@@ -87,19 +87,19 @@ The topic of this workshop relates two subareas within experimental and computat
 
 | Time | Event |
 |------|-------|
-| 9:00 AM | Opening Remarks |
-| 9:15 AM | Talk 1 |
-| 9:45 AM | Talk 2 |
-| 10:15 AM | Coffee Break |
-| 10:45 AM | Talk 3 |
-| 11:15 AM | Talk 4 |
-| 11:45 AM | Talk 5 |
-| 12:15 PM | Lunch Break |
-| 1:30 PM | Talk 6 |
-| 2:00 PM | Talk 7 |
-| 2:30 PM | Talk 8 |
-| 3:00 PM | Coffee Break |
-| 3:30 PM | Talk 9 |
-| 4:00 PM | Panel Discussion |
-| 4:45 PM | Closing Remarks |
+| 9:15 AM | Organizer Intro |
+| 9:30 AM | Aaron Batista |
+| 10:00 AM | Cengiz Pehlevan |
+| 10:30 AM | Break |
+| 11:00 AM | Xulu Sun |
+| 11:30 AM | Lea Duncker |
+| 12:00 PM | Panel Discussion |
+| 12:30 PM | Lunch Break |
+| 3:00 PM | Afternoon Session Intro |
+| 3:15 PM | Hidehiko Inagaki |
+| 3:45 PM | Kayvon Daie |
+| 4:15 PM | Coffee Break |
+| 4:45 PM | Jeff Magee |
+| 5:15 PM | Panel Discussion |
+| 5:55 PM | Closing Remarks |
 
