@@ -85,6 +85,8 @@ The topic of this workshop relates two subareas within experimental and computat
 
 ## Tentative Schedule
 
+*All talks are 20 minutes with 5 minutes of questions.*
+
 <div class="schedule">
   <div class="schedule-item">
     <div class="schedule-time">9:15 AM</div>

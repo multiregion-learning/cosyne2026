@@ -4,6 +4,8 @@ layout: single
 permalink: /schedule/
 ---
 
+*All talks are 20 minutes with 5 minutes of questions.*
+
 <div class="schedule">
 
   <div class="schedule-item">
