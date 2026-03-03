@@ -28,7 +28,7 @@ permalink: /speakers/
       <p class="speaker-institution">Allen Institute</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Functional reorganization of motor cortex connectivity during learning</p>
     </div>
   </div>
 
@@ -50,7 +50,7 @@ permalink: /speakers/
       <p class="speaker-institution">Max Planck Florida Institute for Neuroscience</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Dissecting synaptic plasticity during learning via in vivo CaMKII imaging and manipulation</p>
     </div>
   </div>
 
@@ -72,7 +72,7 @@ permalink: /speakers/
       <p class="speaker-institution">Harvard University</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Is the brain mechanistically identifiable?</p>
     </div>
   </div>
 
@@ -83,7 +83,7 @@ permalink: /speakers/
       <p class="speaker-institution">UCSF</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Meta-learning is expressed through altered prefrontal cortical dynamics</p>
     </div>
   </div>
 
