@@ -3,4 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 Gemfile.lock
+Gemfile.local.lock
 vendor
+_config_dev.yml
+Gemfile.local
