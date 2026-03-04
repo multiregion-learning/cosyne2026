@@ -17,7 +17,7 @@ permalink: /speakers/
       <p class="speaker-institution">University of Pittsburgh</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Flexible interactions between cortical areas</p>
     </div>
   </div>
 
