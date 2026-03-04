@@ -18,7 +18,7 @@ intro:
 
 A growing body of evidence suggests that many forms of biological learning (e.g. formation of novel stimulus associations, acquisition of motor skills) require coordinated changes in neural activity across large and spatially distributed populations of neurons. This perspective raises a challenging mechanistic question: **how can learning-related changes in neural populations be coordinated across regions, while being constrained by local synaptic plasticity rules?**
 
-Our workshop will address this question by bringing together experimentalists and theorists who study large-scale neuronal activity across learning, and those who study the function and capabilities of synaptic plasticity for learning. We aim to facilitate discussions to constrain hypotheses, drive modeling efforts, and inspire novel paradigms to better relate our understanding of synaptic plasticity mechanisms to large-scale changes in neural activity within and between neuronal populations.
+Our workshop will address this question by bringing together experimentalists and theorists who study large-scale neuronal activity across learning, and those who study the function and capabilities of synaptic plasticity for learning. We aim to facilitate discussions to constrain hypotheses, drive modeling efforts, and inspire novel paradigms to better relate our understanding of synaptic plasticity mechanisms to large-scale changes in neural activity within and between neuronal populations. To this end, we invite our audience members to submit questions ahead of time via our [Q&A form](https://multiregion-learning.github.io/cosyne2026/qa/).
 
 ## Why This Workshop?
 
