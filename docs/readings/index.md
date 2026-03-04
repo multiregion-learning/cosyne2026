@@ -4,6 +4,8 @@ layout: single
 permalink: /readings/
 ---
 
+We have compiled a suggested reading list which we (with input from our speakers) believe will help to provide interesting background for the subject matter presented in the workshop talks:
+
 ## Suggested Reading
 
 - [Cell-type-specific plasticity shapes neocortical dynamics for motor learning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10441538/) (2023)
