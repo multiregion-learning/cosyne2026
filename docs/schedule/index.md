@@ -18,14 +18,14 @@ permalink: /schedule/
   <div class="schedule-item">
     <div class="schedule-time">9:30 AM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Aaron Batista</p>
+      <p class="schedule-speaker">Aaron Batista: Flexible interactions between cortical areas</p>
     </div>
   </div>
 
   <div class="schedule-item">
     <div class="schedule-time">10:00 AM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Cengiz Pehlevan</p>
+      <p class="schedule-speaker">Cengiz Pehlevan: Is the brain mechanistically identifiable?</p>
     </div>
   </div>
 
@@ -39,14 +39,14 @@ permalink: /schedule/
   <div class="schedule-item">
     <div class="schedule-time">11:00 AM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Xulu Sun</p>
+      <p class="schedule-speaker">Xulu Sun: Meta-learning is expressed through altered prefrontal cortical dynamics</p>
     </div>
   </div>
 
   <div class="schedule-item">
     <div class="schedule-time">11:30 AM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Lea Duncker</p>
+      <p class="schedule-speaker">Lea Duncker: Inter-area Interactions for Compositional Computation and Continual Learning in RNNs</p>
     </div>
   </div>
 
@@ -74,14 +74,14 @@ permalink: /schedule/
   <div class="schedule-item">
     <div class="schedule-time">3:15 PM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Hidehiko Inagaki</p>
+      <p class="schedule-speaker">Hidehiko Inagaki: Dissecting synaptic plasticity during learning via in vivo CaMKII imaging and manipulation</p>
     </div>
   </div>
 
   <div class="schedule-item">
     <div class="schedule-time">3:45 PM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Kayvon Daie</p>
+      <p class="schedule-speaker">Kayvon Daie: Functional reorganization of motor cortex connectivity during learning</p>
     </div>
   </div>
 
