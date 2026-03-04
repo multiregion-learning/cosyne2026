@@ -39,7 +39,7 @@ permalink: /speakers/
       <p class="speaker-institution">Columbia University</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Inter-area Interactions for Compositional Computation and Continual Learning in RNNs</p>
     </div>
   </div>
 
