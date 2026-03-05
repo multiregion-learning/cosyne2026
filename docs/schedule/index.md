@@ -95,7 +95,7 @@ permalink: /schedule/
   <div class="schedule-item">
     <div class="schedule-time">4:45 PM</div>
     <div class="schedule-content">
-      <p class="schedule-speaker">Jeff Magee</p>
+      <p class="schedule-speaker">Jeff Magee: Dendritic plateau potentials and rapid neocortical network adaptations</p>
     </div>
   </div>
 

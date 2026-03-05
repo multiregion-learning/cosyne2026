@@ -61,7 +61,7 @@ permalink: /speakers/
       <p class="speaker-institution">Baylor College of Medicine, HHMI</p>
     </div>
     <div class="speaker-talk">
-      <p class="talk-title">Talk title coming soon</p>
+      <p class="talk-title">Dendritic plateau potentials and rapid neocortical network adaptations</p>
     </div>
   </div>
 
